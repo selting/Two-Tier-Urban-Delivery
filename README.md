@@ -25,7 +25,8 @@ to open the jupyter interface
 ## Examples
 * to get familiar with the use of Gurobi and Python, follow the examples at https://www.gurobi.com/documentation/8.1/quickstart_windows/py_simple_python_example.html
 
-* some of the examples can be found in the corresponding notebooks in this repository. However, they may not be exactly as they are presented in the website guide
+* some of the examples can be found in the corresponding notebooks in the examples folder. However, they are not exactly as they are presented in the website guide but merely a few simple test snippets to get used to the gurobi modeling procedure
 
 
-## Modeling the 
+## Modeling the Two-Tier Urban Delivery Problem
+
