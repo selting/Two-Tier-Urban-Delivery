@@ -4,7 +4,7 @@ Modeling the approach of "Bakach et al. (2019), A Two-Tier Urban Delivery Networ
 
 ## Setting up the working environment
 * install Anaconda/Miniconda, Python and Gurobi following https://www.gurobi.com/documentation/quickstart.html (including obtaining and activating a gurobi license)
-* open the conda command prompt, navigate to this repository's location and create a new conda environment. You can use the `environment.yml` file so some basic necessary packages (e.g. for the examples) will already be installed with it.
+* open the conda command prompt, navigate to this repository's location and create a new conda environment. You can use the `environment.yml` file so some basic necessary packages (e.g. for the examples) will already be installed with it. (Ensure that the file is UTF-8 encoded, if problems occur)
 ```bash
 conda env create -f environment.yml
 ```
