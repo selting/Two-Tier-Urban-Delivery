@@ -29,4 +29,6 @@ to open the jupyter interface
 
 
 ## Modeling the Two-Tier Urban Delivery Problem
+* The models without time windows can be found in the TTUD folder (with TW is still in progress). The decision variables x of the model are based on 4 indices [hub, instance, customer, robot]. The first tier minimizes the number of necessary hubs. The second tier optimizes the necessary time by using only the minimum number of hubs as determined by tier 1
+* More details are given in the notebook (markdown cells and comments)
 
